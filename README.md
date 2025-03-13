@@ -1,4 +1,6 @@
 # NeuralMood
+
+
 ## Overview
 
 This project is an offline application for emotion detection and sentiment analysis using deep learning. It allows users to analyze images and classify emotions using a trained CNN model. Users can either analyze predefined datasets or upload their own images for analysis.
@@ -92,6 +94,12 @@ python app.py
 - Add real-time webcam-based emotion detection
 - Improve accuracy with a larger dataset
 - Optimize the model for faster inference
+
+
+
+## LINK TO DATASET
+
+https\://www\.kaggle.com/code/shaikhabdulrafay03/fer-2013
 
 ## AUTHOR 
 
